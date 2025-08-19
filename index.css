@@ -77,6 +77,13 @@ main{
 .score{
     margin-bottom: 10px;
 }
+footer{
+    text-align: center;
+    font-size: 16px;
+    color: black;
+    font-style: italic;
+    margin-top: 20px;
+}
 
 /* 📱 Responsive styles */
 @media (max-width: 1100px) {
